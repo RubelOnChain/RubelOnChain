@@ -1,8 +1,8 @@
 # Hi there, I'm Rubel Parvez 👋 (@RubelOnChain)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Web3%20Developer%20%26%20Content%20Creator-blueviolet?style=for-the-badge" alt="Role">
-  <img src="https://img.shields.io/badge/Focus-DeFi%20%26%20Infrastructure-cyan?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Role-Web3_Developer_%26_Content_Creator-blueviolet?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-DeFi_%26_Infrastructure-cyan?style=for-the-badge" alt="Focus">
 </p>
 
 ---
@@ -19,8 +19,12 @@ I am a **digital content creator and developer** active within the Web3 and dece
 ### 📊 GitHub Stats & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RubelOnChain&show_icons=true&theme=cyberpunk&count_private=true" alt="Rubel's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelOnChain&layout=compact&theme=cyberpunk" alt="Top Languages" width="48%"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=RubelOnChain&show_icons=true&theme=cyberpunk&count_private=true" alt="Rubel's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubelOnChain&layout=compact&theme=cyberpunk" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 ---
