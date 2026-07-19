@@ -1,6 +1,6 @@
 # Hi there, I'm Rubel Parvez 👋 (@RubelOnChain)
 
-![Web3 Dev](https://img.shields.io/badge/Role-Web3_Developer_%26_Content_Creator-blueviolet?style=for-the-badge) ![DeFi Infra](https://img.shields.io/badge/Focus-DeFi_%26_Infrastructure-cyan?style=for-the-badge)
+**⚡ Web3 Developer & Content Creator | 🚀 DeFi & Infrastructure Enthusiast**
 
 ---
 
@@ -20,17 +20,11 @@ I am a **digital content creator and developer** active within the Web3 and dece
 
 ---
 
-### 🔮 Connect to My Network
-
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nexa_rn)
-
-[![Project](https://img.shields.io/badge/Project-Synth_Scan-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://arc-synth-scan.lovable.app/)
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nexa_nr)
-
----
-<p align="center">
-  <a href="https://github.com/RubelOnChain">
-    <img src="https://img.shields.io/badge/%E2%9A%A1_RUBEL_ON_CHAIN_%E2%9A%A1-Explore_Infrastructure_Hub-ff00ff?style=for-the-badge" alt="Rubel On Chain" />
-  </a>
-</p>
+> [!NOTE]
+> ### 🔮 CONNECT TO MY NETWORK
+> 
+> * **🤖 Discord:** [Join Discord Server ↗](https://discord.gg/nexa_rn)
+> * **🚀 Project:** [Synth Scan Web ↗](https://arc-synth-scan.lovable.app/)
+> * **🐦 Twitter:** [Follow @nexa_nr ↗](https://x.com/nexa_nr)
+>
+> ⚡ **RUBEL ON CHAIN** ⚡ | *Explore the Decentralized Infrastructure Hub*
