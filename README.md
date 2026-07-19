@@ -1,6 +1,6 @@
 # Hi there, I'm Rubel Parvez 👋 (@RubelOnChain)
 
-**🌐 Web3 Developer & Content Creator | 🚀 DeFi & Infrastructure Enthusiast**
+![Web3 Dev](https://img.shields.io/badge/Role-Web3_Developer_%26_Content_Creator-blueviolet?style=for-the-badge) ![DeFi Infra](https://img.shields.io/badge/Focus-DeFi_%26_Infrastructure-cyan?style=for-the-badge)
 
 ---
 
@@ -20,30 +20,17 @@ I am a **digital content creator and developer** active within the Web3 and dece
 
 ---
 
-<h3 align="center">🔮 Connect to My Network</h3>
+### 🔮 Connect to My Network
 
-<div align="center">
-  <table border="1" cellpadding="15" cellspacing="0" style="border: 2px solid #ff00ff; background-color: #0d1117; border-radius: 10px; width: 80%; border-collapse: separate;">
-    <tr>
-      <td align="center" bgcolor="#0d1117" style="border-radius: 8px;">
-        <!-- কাস্টম নেওন টেক্সট ব্যানার -->
-        <h2 style="color: #00ffff; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 10px #ff00ff; margin: 5px 0; font-size: 24px;">
-          ⚡ RUBEL ON CHAIN ⚡
-        </h2>
-        
-        <!-- নেওন স্টাইল বাটনসমূহ -->
-        <div style="margin: 20px 0;">
-          <a href="https://discord.gg/nexa_rn" style="background-color: #21262d; color: #c9d1d9; border: 1px solid #ff00ff; padding: 8px 18px; text-decoration: none; font-size: 14px; border-radius: 6px; margin: 0 8px; font-weight: bold; display: inline-block;">🤖 Discord</a>
-          <a href="https://arc-synth-scan.lovable.app/" style="background-color: #21262d; color: #c9d1d9; border: 1px solid #00ffff; padding: 8px 18px; text-decoration: none; font-size: 14px; border-radius: 6px; margin: 0 8px; font-weight: bold; display: inline-block;">🚀 Project</a>
-          <a href="https://x.com/nexa_nr" style="background-color: #21262d; color: #c9d1d9; border: 1px solid #ff00ff; padding: 8px 18px; text-decoration: none; font-size: 14px; border-radius: 6px; margin: 0 8px; font-weight: bold; display: inline-block;">🐦 Twitter</a>
-        </div>
-        
-        <p style="margin: 5px 0; font-size: 13px;">
-          <a href="https://github.com/RubelOnChain" style="color: #ff00ff; text-decoration: underline; font-style: italic; font-weight: bold;">
-            Explore the Decentralized Infrastructure Hub
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nexa_rn)
+
+[![Project](https://img.shields.io/badge/Project-Synth_Scan-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://arc-synth-scan.lovable.app/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nexa_nr)
+
+---
+<p align="center">
+  <a href="https://github.com/RubelOnChain">
+    <img src="https://img.shields.io/badge/%E2%9A%A1_RUBEL_ON_CHAIN_%E2%9A%A1-Explore_Infrastructure_Hub-ff00ff?style=for-the-badge" alt="Rubel On Chain" />
+  </a>
+</p>
